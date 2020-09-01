@@ -3,6 +3,7 @@ title: JLPT Senpai
 header_pages:
   - index.md
   - N5.md
+  - N5-nouns.md
   - about.md
 style: dark
 footer: 'project maintained by <a href="https://github.com/Devansh3712">devansh</a>'
