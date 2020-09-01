@@ -1,5 +1,10 @@
-# Welcome to JLPT Senpai
+---
+title: JLPT Senpai
+layout: page
+permalink: /home
+---
 
+# Welcome to JLPT Senpai
 
 ## What is JLPT Senpai?
 
@@ -8,7 +13,6 @@ JLPT Senpai is a site where you can find the study material and references for J
 ## Contact Me
 
 All the materials on the site are available for free, and I'll also add the tips for how to study and qualify JLPT exams, and how they can be advantageous to you. For any queries, you can mail me at [devanshamity@gmail.com](mailto:devanshamity@gmail.com), and I will answer as soon as possible ;) Your support will encourage me to add more materials, so do keep supporting! You can also find me on [instagram](https://instagram.com/whodevansh), just text me for any questions.
-
 
 ## How to contribute?
 
