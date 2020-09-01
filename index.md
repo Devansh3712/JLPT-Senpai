@@ -1,6 +1,6 @@
 ---
 title: JLPT Senpai
-layout: page
+layout: home
 ---
 
 # Welcome to JLPT Senpai
