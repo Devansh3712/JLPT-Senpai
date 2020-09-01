@@ -1,7 +1,6 @@
 ---
 title: JLPT Senpai
 layout: page
-permalink: /home
 ---
 
 # Welcome to JLPT Senpai
