@@ -1,5 +1,5 @@
 ---
-title: JLPT Senpai
+title: Home
 layout: home
 ---
 
