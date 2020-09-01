@@ -2,4 +2,6 @@ remote_theme: b2a3e8/jekyll-theme-console
 title: JLPT Senpai
 header_pages:
   - N5.md
-  - about.md
+  - About.md
+style: dark
+footer: 'project maintained by <a href="https://github.com/Devansh3712">devansh</a>'
