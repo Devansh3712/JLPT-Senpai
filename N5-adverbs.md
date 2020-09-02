@@ -46,6 +46,4 @@ Download [PDF](./pdf/N5-adverbs.pdf) of list of adverbs
 | 34    | yukkuri         | ゆっくり         | slowly                                              |
 
 &nbsp;
-[⬅ Return](./N5.md)<div align="right">
-    <a href="#">⬆ back to top</a>
-</div>
+[⬅ Return](./N5.md)&nbsp;<div style="text-align: right"><a href="#">⬆ back to top</a></div>
