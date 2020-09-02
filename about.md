@@ -9,8 +9,10 @@ layout: page
 
 # About
 &nbsp;
-JLPT Senpai is an Open-Source website made fir Japanese Language Proficiency Test, commonly known as JLPT aspirants. Being an open source site, evry material available on the site is free and the website doesn't contain any ads ;) The source code for this website can be found [here](https://github.com/Devansh3712/JLPT-Senpai). This website is hosted on `github pages`, and made using `jekyll`.
+JLPT Senpai is an Open-Source website made for Japanese Language Proficiency Test, commonly known as JLPT aspirants. Being an open source website, every material available on the site is free of cost and the website doesn't contain any ads ;) The source code for this website can be found [here](https://github.com/Devansh3712/JLPT-Senpai). This website is hosted on `github pages`, and made using `jekyll`.
 
 # Contribute
 &nbsp;
-In order to contribute for this site, visit the [github repository](https://github.com/JLPT-Senpai) and read the [README.md](https://github.com/Devansh3712/JLPT-Senpai/README.md) file and the [CONTRIBUTING.md](https://github.com/Devansh3712/JLPT-Senpai/CONTRIBUTING.md) file for more information. Pull requests and issues are welcome, if they're needed they'll be merged into the master repository.
+In order to contribute for this site, visit the [github repository](https://github.com/JLPT-Senpai) and read the [README.md](https://github.com/Devansh3712/JLPT-Senpai/README.md) file and the [CONTRIBUTING.md](https://github.com/Devansh3712/JLPT-Senpai/CONTRIBUTING.md) file for more information. Pull requests and issues are welcome, if they're needed they'll be merged into the master repository. 
+&nbsp;
+If you want to contribute for study material, just mail me the links or the files in pdf foemat at [devanshamity@gmail.com](mailto:devanshamity@gmail.com), and I'll upload them to the site!
