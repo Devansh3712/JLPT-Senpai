@@ -9,7 +9,7 @@ Download [PDF](./pdf/N5-な-adjectives.pdf)
 # &nbsp;
 
 | **#** | **な**       | **な-adj** | **Meaning**                                  |
-|-------|--------------|------------|----------------------------------------------|
+|:-------|:--------------|:------------|:----------------------------------------------|
 | 1     | べんり       | benri      | convenient; handy; useful                    |
 | 2     | だいじょうぶ | daijoubu   | OK; okay; alright; problem free              |
 | 3     | だいすき     | daisuki    | love; like; like very much                   |
