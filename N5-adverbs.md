@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Adverbs
-Download [PDF](./pdf/N5-adverbs.pdf)
+Download [PDF](./pdf/N5-adverbs.pdf) of list of adverbs
 
 # &nbsp;
 
@@ -44,3 +44,7 @@ Download [PDF](./pdf/N5-adverbs.pdf)
 | 32    | totemo          | とても           | very; awfully; exceedingly                          |
 | 33    | yoku            | よく             | often, well                                         |
 | 34    | yukkuri         | ゆっくり         | slowly                                              |
+&nbsp;
+[⬅ Return](./N5.md)<div align="right">
+    <a href="#----">⬆ back to top</a>
+</div>

@@ -70,3 +70,7 @@ Download [PDF](./pdf/N5-い-adjective.pdf)
 | 58    | やすい     | yasui      | cheap; inexpensive                              |
 | 59    | よい/いい  | yoi/ii     | good                                            |
 | 60    | よわい     | yowai      | weak                                            |
+&nbsp;
+[⬅ Return](./N5.md)<div align="right">
+    <a href="#----">⬆ back to top</a>
+</div>

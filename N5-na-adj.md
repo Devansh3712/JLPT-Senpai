@@ -34,3 +34,7 @@ Download [PDF](./pdf/N5-な-adjectives.pdf)
 | 22    | たいせつ     | taisetsu   | important; necessary; indispensable; beloved |
 | 23    | たくさん     | takusan    | many                                         |
 | 24    | ゆうめい     | yuumei     | famous                                       |
+&nbsp;
+[⬅ Return](./N5.md)<div align="right">
+    <a href="#----">⬆ back to top</a>
+</div>

@@ -433,5 +433,7 @@ Download [PDF](./pdf/N5-nouns.pdf)
 | 420   | ぜんぶ           | zenbu             | all                                                               |
 | 421   | ゼロ             | zero              | zero                                                              |
 | 422   | ズボン           | zubon             | trousers; pants                                                   |
-
-## [Return back](./N5.md)
+&nbsp;
+[⬅ Return](./N5.md)<div align="right">
+    <a href="#----">⬆ back to top</a>
+</div>

@@ -178,3 +178,7 @@ Download [Kanji E-book](./pdf/N5-kanji-ebook.pdf)
 |       |           | フ                                 | ちち、 とう                                                                                |                                                          |
 | 80    | 雨        | u                                  | ame, ama                                                                                   | rain                                                     |
 |       |           | ウ                                 | あめ、 あま                                                                                |                                                          |
+&nbsp;
+[⬅ Return](./N5.md)<div align="right">
+    <a href="#----">⬆ back to top</a>
+</div>
