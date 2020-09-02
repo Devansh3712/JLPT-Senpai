@@ -8,7 +8,7 @@ Download [PDF](./pdf/N5-い-adjective.pdf)
 
 # &nbsp;
 
-**#**|**い**|**い-adj**|**Meaning**
+**#**|&nbsp; **い**|&nbsp; **い-adj**|&nbsp; **Meaning**
 :---|:---|:---|:---
 1|あぶない|abunai|dangerous
 2|あかい|akai|red; crimson; scarlet
