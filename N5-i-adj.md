@@ -72,4 +72,4 @@ Download [PDF](./pdf/N5-い-adjective.pdf)
 | 60    | よわい     | yowai      | weak                                            |
 
 &nbsp;
-[⬅ Return](./N5.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">⬆ back to top</a>
+[⬅ Return to homepage](./N5.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">⬆ back to top</a>
