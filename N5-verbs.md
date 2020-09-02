@@ -129,6 +129,7 @@ Download [PDF](./pdf/N5-verbs.pdf)
 | 117   | やすむ     | yasumu    | to be absent; to take a day off; to rest                             |
 | 118   | よぶ       | yobu      | to call out, to invite                                               |
 | 119   | よむ       | yomu      | to read; to guess; to predict; to read (someone's thoughts)          |
+
 &nbsp;
 [⬅ Return to homepage](./N5.md)<div align="right">
     <a href="#----">⬆ back to top</a>
