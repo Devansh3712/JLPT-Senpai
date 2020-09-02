@@ -8,7 +8,7 @@ Download [PDF](./pdf/N5-な-adjectives.pdf)
 
 # &nbsp;
 
-**#**|**な形容詞**|**な-adjective**|**Meaning**
+**#**|**な**|**な-adj**|**Meaning**
 :---|:---|:---|:---
 1|べんり|benri|convenient; handy; useful
 2|だいじょうぶ|daijoubu|OK; okay; alright; problem free

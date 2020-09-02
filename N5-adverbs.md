@@ -8,7 +8,7 @@ Download [PDF](./pdf/N5-adverbs.pdf)
 
 # &nbsp;
 
-**#**|**Romaji**|**Japanese**|**Grammar Meaning**
+**#**|**Romaji**|**Japanese**|**Meaning**
 :---|:---|:---|:---
 1|chotto|ちょっと|a little
 2|choudo|ちょうど|exactly
