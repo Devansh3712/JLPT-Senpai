@@ -435,6 +435,4 @@ Download [PDF](./pdf/N5-nouns.pdf)
 | 422   | ズボン           | zubon             | trousers; pants                                                   |
 
 &nbsp;
-[⬅ Return](./N5.md)<div align="right">
-    <a href="#----">⬆ back to top</a>
-</div>
+[⬅ Return](./N5.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">⬆ back to top</a>
