@@ -3,8 +3,10 @@ title: N5-nouns
 layout: page
 ---
 
-# Nouns 
-Download [PDF](./pdf/N5-nouns.pdf) of list of nouns
+# N5: Nouns
+&nbsp;
+The following are the nouns required for N5. As there is no specified syllabus for N5, the list has been made according to occurence of these in past year papers. 
+> Download [PDF](./pdf/N5-nouns.pdf) of list of nouns
 
 # &nbsp;
 

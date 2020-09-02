@@ -3,9 +3,11 @@ title: N5-kanji
 layout: page
 ---
 
-# Kanjis
-Download [PDF](./pdf/N5-kanji.pdf) of list of kanjis
-Download [Kanji E-book](./pdf/N5-kanji-ebook.pdf)
+# N5: Kanjis
+&nbsp;
+The following are the kanjis required for N5. As there is no specified syllabus for N5, the list has been made according to occurence of these in past year papers. You can refer to the e-book given below for strokes and more things.
+> Download [PDF](./pdf/N5-kanji.pdf) of list of kanjis
+> Download [Kanji E-book](./pdf/N5-kanji-ebook.pdf)
 
 # &nbsp;
 

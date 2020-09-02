@@ -3,8 +3,10 @@ title: N5 な-Adjective
 layout: page
 ---
 
-# な Adjectives
-Download [PDF](./pdf/N5-な-adjectives.pdf) of list of な adjectives
+# N5: な Adjectives
+&nbsp;
+The following are the な adjectives required for N5. As there is no specified syllabus for N5, the list has been made according to occurence of these in past year papers.
+> Download [PDF](./pdf/N5-な-adjectives.pdf) of list of な adjectives
 
 # &nbsp;
 

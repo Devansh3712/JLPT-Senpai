@@ -3,8 +3,10 @@ title: N5-adverbs
 layout: page
 ---
 
-# Adverbs
-Download [PDF](./pdf/N5-adverbs.pdf) of list of adverbs
+# N5: Adverbs
+&nbsp;
+The following are the adverbs required for N5. As there is no specified syllabus for N5, the list has been made according to occurence of these in past year papers.
+> Download [PDF](./pdf/N5-adverbs.pdf) of list of adverbs
 
 # &nbsp;
 

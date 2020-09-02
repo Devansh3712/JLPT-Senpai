@@ -3,8 +3,10 @@ title: N5 い-Adjectives
 layout: page
 ---
 
-# い-Adjectives
-Download [PDF](./pdf/N5-い-adjective.pdf) of list of い adjectives
+# N5: い-Adjectives
+&nbsp;
+The following are the い adjectives required for N5. As there is no specified syllabus for N5, the list has been made according to occurence of these in past year papers.
+> Download [PDF](./pdf/N5-い-adjective.pdf) of list of い adjectives
 
 # &nbsp;
 

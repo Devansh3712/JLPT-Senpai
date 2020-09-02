@@ -4,7 +4,9 @@ layout: page
 ---
 
 # Verbs
-Download [PDF](./pdf/N5-verbs.pdf) of list of verbs
+&nbsp;
+The following are the verbs required for N5. As there is no specified syllabus for N5, the list has been made according to occurence of these in past year papers.
+> Download [PDF](./pdf/N5-verbs.pdf) of list of verbs
 
 # &nbsp;
 
