@@ -1,6 +1,6 @@
 remote_theme: b2a3e8/jekyll-theme-console
 title: JLPT Senpai
-favicon: ./favicon.ico
+icon: ./favicon.png
 header_pages:
   - index.md
   - N5.md
