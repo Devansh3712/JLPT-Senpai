@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Kanjis
-Download [PDF](./pdf/N5-kanji.pdf) of kanji list
+Download [PDF](./pdf/N5-kanji.pdf) of list of kanjis
 Download [Kanji E-book](./pdf/N5-kanji-ebook.pdf)
 
 # &nbsp;

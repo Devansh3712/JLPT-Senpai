@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Nouns 
-Download [PDF](./pdf/N5-nouns.pdf)
+Download [PDF](./pdf/N5-nouns.pdf) of list of nouns
 
 # &nbsp;
 

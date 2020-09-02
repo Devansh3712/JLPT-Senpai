@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Verbs
-Download [PDF](./pdf/N5-verbs.pdf)
+Download [PDF](./pdf/N5-verbs.pdf) of list of verbs
 
 # &nbsp;
 

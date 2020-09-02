@@ -4,7 +4,7 @@ layout: page
 ---
 
 # い-Adjectives
-Download [PDF](./pdf/N5-い-adjective.pdf)
+Download [PDF](./pdf/N5-い-adjective.pdf) of list of い adjectives
 
 # &nbsp;
 

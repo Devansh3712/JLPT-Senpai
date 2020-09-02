@@ -4,7 +4,7 @@ layout: page
 ---
 
 # な Adjectives
-Download [PDF](./pdf/N5-な-adjectives.pdf)
+Download [PDF](./pdf/N5-な-adjectives.pdf) of list of な adjectives
 
 # &nbsp;
 
