@@ -4,15 +4,12 @@ layout: page
 ---
 
 # JLPT Senpai
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:devanshamity@gmail.com)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![Open Source](https://badgen.net/badge/Open%20Source/blue?icon=github)](https://github.com/Devansh3712/JLPT-Senpai)
+&nbsp;
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:devanshamity@gmail.com)[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)[![Open Source](https://badgen.net/badge/Open%20Source/blue?icon=github)](https://github.com/Devansh3712/JLPT-Senpai)[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/5Kt3xbQ)
 
 # About
 &nbsp;
-JLPT Senpai is an Open-Source website made fir Japanese Language Proficiency Test, commonly known as JLPT aspirants. Being an open source site, evry material available on the site is free and the website doesn't contain any ads ;) The source code for this website can be found [here](https://github.com/Devansh3712/JLPT-Senpai). This website is hosted on `github pages`, for contributing see below.
+JLPT Senpai is an Open-Source website made fir Japanese Language Proficiency Test, commonly known as JLPT aspirants. Being an open source site, evry material available on the site is free and the website doesn't contain any ads ;) The source code for this website can be found [here](https://github.com/Devansh3712/JLPT-Senpai). This website is hosted on `github pages`, and made using `jekyll`.
 
 # Contribute
 &nbsp;
