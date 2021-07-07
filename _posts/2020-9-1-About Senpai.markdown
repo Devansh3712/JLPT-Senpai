@@ -17,5 +17,3 @@ Also, having some experience of how to prepare for such tests, I've added links 
 If you ever have any doubts, questions or queries, feel free to contact me, and I'll try my best to help you out with it. Also, please do give your suggestions, and I'll implement them for sure!
 &nbsp;
 [mail](mailto:devanshamity@gmail.com)
-[instagram](https://instagram.com/whodevansh)
-[discord](https://discord.com/invite/5Kt3xbQ)
